@@ -1,0 +1,8 @@
+sampling_factor = 1.0
+train_set_proportion = 0.7
+num_epochs = 20
+learning_rate = 1e-05
+optimizing_function = <class 'torch.optim.adam.Adam'>
+Loss = <function cross_entropy at 0x2b3a6e673cb0>
+batch_size = 128
+weight_decay = 0.2

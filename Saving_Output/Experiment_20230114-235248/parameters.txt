@@ -1,0 +1,7 @@
+sampling_factor = 1
+train_set_proportion = 0.7
+num_epochs = 20
+learning_rate = 0.001
+optimizing_function = <class 'torch.optim.sgd.SGD'>
+Loss = <function cross_entropy at 0x7f1caa6e55e0>
+Loss = 32
