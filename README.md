@@ -12,12 +12,12 @@ cd Code
 python3 Runner.py 1.0 0.7 20 1e-5 128 ADAM 0.1 ResNet18
 ```
 
-## parameters 
+## Training parameters 
 
 The parameters should come after 
-'''
+```
 python3 Runner.py
-'''
+```
 in the following order
 * sampling factor (What percentage of the data is used)
 * train factor (How much of it is used for training, the rest is for validation)
